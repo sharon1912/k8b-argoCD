@@ -15,7 +15,7 @@ spec:
     namespace: java-app
 
   syncPolicy:
-    suncOptions:
+    syncOptions:
     - CreateNamespace=true
     
     automated:
